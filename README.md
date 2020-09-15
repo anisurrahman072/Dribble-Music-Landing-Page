@@ -6,6 +6,5 @@ This is a **Responsive** web page. I used here-
 - HTML5
 - CSS
 - Bootstrap4
-- JS
 
 ### Open ***`index.html`*** to show the page
