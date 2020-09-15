@@ -1,0 +1,111 @@
+.divAfterBody{
+	background-color: black;
+	position: fixed;
+	top: 0;
+}
+.line{
+	border-left: 1px solid gray;
+	display: inline-block;
+	height: 65px;
+	margin-left: 15px;
+	margin-bottom: -10px;
+	vertical-align: 8px;
+}
+.body{
+	margin: 0px;	
+}
+.dribbble{
+	text-decoration: none;
+	font-family: 'Pacifico';
+	color: white;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	font-size: 30px;
+	vertical-align: 20px;
+}
+.divWithHelloMusic{
+	display: inline-block;
+	margin-top: 10px;
+}
+.helloMusic{
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+	margin-top: 10px;
+	vertical-align: -15px;
+	font-size: 22px;
+	font-weight: bold;
+}
+.by{
+	color: gray;
+	margin-left: 10px;
+	display: inline-block;
+	margin-top: 10px;
+	font-size: 14px;
+	vertical-align: 6px;
+}
+.BhavnaKashyap{
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: 6px;
+	font-size: 14px;
+	color: gray
+}
+.eyeIcon{
+	color: gray;
+	vertical-align: 6px;
+	margin-left: 7px;
+	width: 8px;
+	
+}
+.veiews{
+	color: gray;
+	margin-left: 7px;
+	display: inline;
+	vertical-align: 6px;
+	font-size: 14px;
+}
+.divWithImgBtn{
+	width: 219px;
+	float: right;
+	margin-left: 774px;
+	margin-top: 13px;
+}
+.firstImgBtn{
+	height: 50px;
+	width: 50px;
+	border-radius: 8px;
+}
+.otherTwoBtn{
+	height: 50px;
+	width: 50px;
+}
+.gridContainer{
+	margin-top: 100px;
+	margin-left: 160px;
+	margin-right: 160px;
+	background-color: green;
+	display: grid;
+	grid-template-columns: 220px auto;
+	grid-gap: 0px;
+	box-shadow: 0 0 16px grey;
+}
+.slider{
+	-webkit-appearance-none;
+	width: 300px;
+	vertical-align: 18px;
+	height: 2px;
+	border-radius: 4px;
+}
+.slider::-webkit-slider-thumb{
+	-webkit-appearance-none;
+	background: url('crc.png');
+	border-radius: 10px;
+}
+.slider-volume{
+	-webkit-appearance-none;
+	width: 80px;
+	vertical-align: 18px;
+	height: 2px;
+	border-radius: 4px;
+}
